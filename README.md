@@ -52,10 +52,10 @@ Jupyter Notebook
 **Repository Contents**<br>
 📄 Project Report : https://github.com/krithikaamadhumitha/Insurance-Fraud-Claim-Prediction/blob/main/InsuranceFraudClaimPrediction.pdf <br>
 📓 Jupyter Notebook : https://github.com/krithikaamadhumitha/Insurance-Fraud-Claim-Prediction/blob/main/FraudClaimData.ipynb <br>
+📈 Visualizations : https://public.tableau.com/profile/krithikaa.madhumitha#!/vizhome/FraudDetectionData_EDA/AttendingPhyscianYes <br>
 📊 Dataset Source : https://www.kaggle.com/rohitrox/healthcare-provider-fraud-detection-analysis <br>
   Rename the following files as such:
   1. Train_Beneficiarydata-1542865627584.csv to BeneficiaryData.csv <br>
   2. Train_Inpatientdata-1542865627584 to InpatientData.csv <br>
   3. Train_Outpatientdata-1542865627584 to OutpatientData.csv <br>
   4. Train-1542865627584 to ProviderData.csv <br>
-📈 Visualizations : https://public.tableau.com/profile/krithikaa.madhumitha#!/vizhome/FraudDetectionData_EDA/AttendingPhyscianYes
